@@ -1,98 +1,133 @@
+/* Piyarat Pimpisan ID:1630902284 */
+
+
 /* CSS file --> index.html */
+
+
 /* (1) Tag Selector */
-body{
-  background-image: url(/Profile02/images/002.png);
+
+body {
+    font-variant-position: sub;
+    background-image: url(/images/002.png);
+    text-align: center;
+    background-position-x: center;
+    background-size: 100%;
 }
-h1{
-  color: rgb(255, 0, 0);
-  font-family: Impact ;
-  text-align: center;
-  font-size: 60px ;
-  /*background-color: #FCE38A;*/
+
+h1 {
+    color: rgb(255, 0, 0);
+    font-family: Impact;
+    text-align: center;
+    font-size: 60px;
 }
-h2{
-  font-size: 60px ;
-  text-align: center;
-  font-family: cursive;
-  font-weight: normal;
-  color: rgb(255, 0, 0);
-  /*background-color: #EAFFD0;*/
+
+h2 {
+    font-size: 60px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: normal;
+    color: rgb(255, 0, 0);
 }
-td{
-  font-size: 25px ;
-  color: rgb(255, 0, 0);
+
+h3 {
+    font-size: 30px;
+    color: rgb(255, 7, 7);
 }
-h5{
-  text-align: center;
-  font-size: 26px ;
-  color: rgb(20, 20, 20);
-  font-family: verdana;
-  background-color: rgb(126, 13, 13);
-  background-size: 20;
+
+td {
+    font-size: 25px;
+    color: rgb(255, 0, 0);
 }
-h4{
-  text-align: center;
-  font-family: Aclonica;
-  font-weight: normal;
-  font-size: 25px ;
-  color: rgb(255, 0, 0);
+
+h5 {
+    text-align: center;
+    font-size: 26px;
+    color: rgb(20, 20, 20);
+    font-family: verdana;
+    background-color: rgb(126, 13, 13);
+    background-size: 20;
 }
-h6{
-  text-align: center ;
-    color :rgb(39, 182, 182);
+
+h4 {
+    text-align: center;
+    font-family: Aclonica;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+}
+
+h6 {
+    text-align: center;
+    color: rgb(39, 182, 182);
     font-size: 30px;
 }
-p{
-  color: rgb(1, 202, 185);
-  font-size: 30px ;
-}
-table{
-  font-family: verdana;
-  width: 100%;
-  text-align: center;
+
+p {
+    color: rgb(1, 202, 185);
+    font-size: 30px;
 }
 
-th{
-  width: 10%; 
-  vertical-align: center;
+table {
+    font-family: verdana;
+    width: 100%;
+    text-align: center;
 }
+
+th {
+    width: 10%;
+    vertical-align: center;
+}
+
+
 /* (2) Class Selector */
-.p-Aboutme{
-  font-weight: normal; 
-  text-align: justify;
+
+.p-Aboutme {
+    font-weight: normal;
+    text-align: justify;
 }
-.p-Name{
-  font-weight: normal;
+
+.p-Name {
+    font-weight: normal;
 }
-.p-Footer{
-  text-align: center;
+
+.p-Footer {
+    text-align: center;
 }
-.name{
-  font-size: 30px ;
-  font-family: verdana;
-  color: rgb(15, 15, 14);
-  background-color: rgb(255, 0, 0);
+
+.name {
+    font-size: 30px;
+    font-family: verdana;
+    color: rgb(15, 15, 14);
+    background-color: rgb(255, 0, 0);
 }
+
+
 /* (3) Id Selector */
-#th-Details{
-  text-align: left;
+
+#th-Details {
+    text-align: left;
 }
+
 
 /* div */
-.top-container{
-  background-color: rgb(15, 15, 14);
-  font-family: verdana;
-  text-align: center ;
+
+.top-container {
+    background-color: rgb(15, 15, 14);
+    font-family: verdana;
+    text-align: center;
 }
-.table-menu td:hover{
-  background-color: #d30606;
-  color: rgb(5, 5, 5);
+
+.table-menu td:hover {
+    background-color: #d30606;
+    color: rgb(5, 5, 5);
 }
-.table-content h2{
-  font-size: 50px;
-  font-family: Impact ;
-  /*background-color: rgb(0, 0, 0);*/
+
+.table-content h2 {
+    font-size: 50px;
+    font-family: Impact;
+    /*background-color: rgb(0, 0, 0);*/
 }
-.table-content img:hover{
-  background-color: rgb(22, 185, 85);
+
+.table-content img:hover {
+    background-color: rgb(22, 185, 85);
 }
